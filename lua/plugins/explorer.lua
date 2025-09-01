@@ -10,6 +10,14 @@ return {
             },
           },
           -- Other explorer options...
+          win = {
+            list = {
+              wo = {
+                number = true,
+                relativenumber = true,
+              },
+            },
+          },
         },
       },
     },
