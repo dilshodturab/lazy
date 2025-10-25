@@ -20,7 +20,7 @@ return {
         "yaml",
         "angular",
         "rust",
-        "sql",
+        "ron",
       },
     },
   },
